@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_project\\demo\\TestPluginHost\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading.xml",
+        "source": "D:\\android_project\\demo\\TestPluginHost\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading.xml"
+    },
+    {
+        "merged": "D:\\Android  plugin\\TestPluginHost-master\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png",
+        "source": "D:\\Android  plugin\\TestPluginHost-master\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png"
+    },
+    {
+        "merged": "D:\\Android  plugin\\TestPluginHost-master\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading.xml",
+        "source": "D:\\Android  plugin\\TestPluginHost-master\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading.xml"
+    },
+    {
+        "merged": "D:\\android_project\\demo\\TestPluginHost\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png",
+        "source": "D:\\android_project\\demo\\TestPluginHost\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png"
+    }
+]
